@@ -1,0 +1,7 @@
+*.hex
+*.elf
+*.bin
+*.o
+*.obj
+.DS_Store
+Thumbs.db
